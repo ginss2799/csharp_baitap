@@ -1,0 +1,15 @@
+D:\CGO_csharp\csharp_baitap\01_NgayGio\bin\Debug\net7.0\01_NgayGio.exe
+D:\CGO_csharp\csharp_baitap\01_NgayGio\bin\Debug\net7.0\01_NgayGio.deps.json
+D:\CGO_csharp\csharp_baitap\01_NgayGio\bin\Debug\net7.0\01_NgayGio.runtimeconfig.json
+D:\CGO_csharp\csharp_baitap\01_NgayGio\bin\Debug\net7.0\01_NgayGio.dll
+D:\CGO_csharp\csharp_baitap\01_NgayGio\bin\Debug\net7.0\01_NgayGio.pdb
+D:\CGO_csharp\csharp_baitap\01_NgayGio\obj\Debug\net7.0\01_NgayGio.csproj.AssemblyReference.cache
+D:\CGO_csharp\csharp_baitap\01_NgayGio\obj\Debug\net7.0\01_NgayGio.GeneratedMSBuildEditorConfig.editorconfig
+D:\CGO_csharp\csharp_baitap\01_NgayGio\obj\Debug\net7.0\01_NgayGio.AssemblyInfoInputs.cache
+D:\CGO_csharp\csharp_baitap\01_NgayGio\obj\Debug\net7.0\01_NgayGio.AssemblyInfo.cs
+D:\CGO_csharp\csharp_baitap\01_NgayGio\obj\Debug\net7.0\01_NgayGio.csproj.CoreCompileInputs.cache
+D:\CGO_csharp\csharp_baitap\01_NgayGio\obj\Debug\net7.0\01_NgayGio.dll
+D:\CGO_csharp\csharp_baitap\01_NgayGio\obj\Debug\net7.0\refint\01_NgayGio.dll
+D:\CGO_csharp\csharp_baitap\01_NgayGio\obj\Debug\net7.0\01_NgayGio.pdb
+D:\CGO_csharp\csharp_baitap\01_NgayGio\obj\Debug\net7.0\01_NgayGio.genruntimeconfig.cache
+D:\CGO_csharp\csharp_baitap\01_NgayGio\obj\Debug\net7.0\ref\01_NgayGio.dll
